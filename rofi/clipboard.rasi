@@ -1,0 +1,17 @@
+@import "~/.config/rofi/config.rasi"
+
+* {
+    font: "Maple Mono Normal NL 10";
+}
+
+inputbar {
+    enabled: false;
+}
+
+#window {
+    width: 700px;
+}
+
+#listview {
+    lines: 6;
+}
